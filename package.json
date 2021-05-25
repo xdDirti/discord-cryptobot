@@ -1,0 +1,16 @@
+{
+  "name": "cryptobot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ducky#2974",
+  "license": "ISC",
+  "description": "CryptoCurrency Discord Bot",
+  "keywords": [
+    "cryptocurrency",
+    "crypto",
+    "bitcoin"
+  ]
+}
